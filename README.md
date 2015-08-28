@@ -7,3 +7,5 @@ TODO
 * ~~Add google analytics code~~
 
 * Integrate Jekyll
+
+* Add support for HTTPS
